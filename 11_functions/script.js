@@ -1,4 +1,5 @@
 //  function
+console.log("hello jee")
 function OnePlusAvg(x,y){
     console.log("Done")
     return 1 + (x+y)/2
