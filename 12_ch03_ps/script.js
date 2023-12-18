@@ -32,3 +32,4 @@ let marks = {
     return (a+b+c+d+e)/5;  
   }
   console.log(mean(aa,ab,ac,ad,ae))
+  console.log("update one")
