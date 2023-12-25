@@ -1,0 +1,7 @@
+// $0.nextSiblings
+// $0.childNodes
+console.log(document.body.firstChild)
+let a = document.body.firstChild
+console.log(a.parentElement)
+console.log(a.parentNode)
+console.log(a.firstChild.nextSibling)
