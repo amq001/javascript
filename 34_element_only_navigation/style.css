@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul{
+  display: flex;
+  background-color: grey;
+}
+li{
+  list-style: none;
+  padding: 20px 20px;
+  /* margin: 10px 10px; */
+  color: white;
+}
