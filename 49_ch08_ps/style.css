@@ -1,0 +1,13 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+/* Q5 */
+
+.bulb {
+    background: yellow;
+}
+.bulb-container{
+    height: 341px;
+    width: 341px;
+}
